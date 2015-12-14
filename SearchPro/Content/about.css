@@ -1,0 +1,84 @@
+﻿body {
+ /*background: #dc143c;*/
+  background-image: url(../IMG/gymSign.jpg);
+}
+
+.text-rotate {
+  text-align: left;
+  display: inline-block;
+  font-size: 6em;
+  position: relative;
+  margin: 2em 0 0;
+}
+.item {
+  margin-left: 30%;
+  margin-top: 20%;  
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  color: #343d46;
+  font-family: "Yanone Kaffeesatz";
+  -webkit-animation-name: test;
+          animation-name: test;
+  -webkit-transition-property: all;
+          transition-property: all;
+  -webkit-animation-duration: 24s;
+          animation-duration: 24s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+.item:first-child + .item {
+  -webkit-animation-delay: 6s;
+          animation-delay: 6s;
+}
+.item:first-child + .item + .item {
+  -webkit-animation-delay: 12s;
+          animation-delay: 12s;
+}
+.item:first-child + .item + .item + .item {
+  -webkit-animation-delay: 18s;
+          animation-delay: 18s;
+}
+@-webkit-keyframes test {
+  0% {
+    top: 0;
+    left: 0;
+    opacity: 0;
+  }
+  .5%, 24% {
+    opacity: 1;
+    top: -1em;
+    left: 0;
+    opacity: 1;
+  }
+  25% {
+    left: 8em;
+    top: -1em;
+    opacity: 0;
+  }
+}
+@keyframes test {
+  0% {
+    top: 0;
+    left: 0;
+    opacity: 0;
+  }
+  .5%, 24% {
+    opacity: 1;
+    top: -1em;
+    left: 0;
+    opacity: 1;
+  }
+  25% {
+    left: 8em;
+    top: -1em;
+    opacity: 0;
+  }
+}
+
+.zlil {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}

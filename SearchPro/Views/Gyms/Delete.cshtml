@@ -1,0 +1,73 @@
+﻿@model SearchPro.Models.Gyms
+
+@{
+    ViewBag.Title = "Delete";
+}
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/Screen.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/UserIndex.css">
+</head>
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Gyms</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GymName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GymName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GymPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GymPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GymAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GymAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GymOpenTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GymOpenTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GymCloseTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GymCloseTime)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

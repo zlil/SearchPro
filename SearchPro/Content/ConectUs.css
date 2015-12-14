@@ -1,0 +1,69 @@
+﻿body,html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url(../IMG/gymContactUs3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.PersonalDetails{
+    display:inline-block;
+    font-size:2.6rem;
+    color: whitesmoke;
+    padding-left:30px;
+    margin-bottom:2.42857143rem;
+    text-shadow: 1px 1px #2F4F4F ;
+}
+img{
+    
+    float:left;
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+	border-radius: 50em;
+    border:1px solid black;
+    width:25%;
+    -webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+    }
+img:hover{
+-webkit-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+	-moz-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+	box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+
+	-webkit-border-radius: 60em;
+	-moz-border-radius: 60em;
+	border-radius: 60em;
+    }
+
+@media screen and (max-width: 600px) {
+ .PersonalDetails {
+        font-size:12px;
+        margin-bottom:1.42857143rem;
+ }
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/Hallosans.woff);
+}
+
+.PersonalDetails{
+font-family: myFirstFont;
+}
+
+#title{ 
+font-size:30px;
+font-family: myFirstFont;
+color: whitesmoke;
+padding-left:30px;
+margin-bottom:2.42857143rem;
+text-shadow: 1px 1px #2F4F4F ;
+
+}

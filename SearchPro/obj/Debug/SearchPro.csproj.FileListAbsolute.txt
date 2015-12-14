@@ -1,0 +1,382 @@
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\SearchPro.dll.config
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\SearchPro.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\SearchPro.pdb
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Antlr3.Runtime.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\EntityFramework.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\EntityFramework.SqlServer.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Newtonsoft.Json.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Owin.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Helpers.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Mvc.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Optimization.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Razor.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.WebPages.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\WebGrease.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Helpers.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Mvc.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Optimization.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.Razor.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.WebPages.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Antlr3.Runtime.pdb
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Newtonsoft.Json.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\EntityFramework.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\EntityFramework.SqlServer.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Adi\Desktop\SearchPro\SearchPro\obj\Debug\SearchPro.dll
+C:\Users\Adi\Desktop\SearchPro\SearchPro\obj\Debug\SearchPro.pdb
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\SearchPro.dll.config
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\SearchPro.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\SearchPro.pdb
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\EntityFramework.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Owin.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\WebGrease.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\EntityFramework.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\obj\Debug\SearchPro.dll
+C:\Users\user\Desktop\תיקיה חדשה\SearchPro\SearchPro\obj\Debug\SearchPro.pdb
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\SearchPro.dll.config
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\SearchPro.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\SearchPro.pdb
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\EntityFramework.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Owin.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\WebGrease.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\EntityFramework.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\obj\Debug\SearchPro.dll
+C:\Users\user\Desktop\גיבוי פרויקט\גיבוי 3\SearchPro\SearchPro\obj\Debug\SearchPro.pdb
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\SearchPro.dll.config
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\SearchPro.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\SearchPro.pdb
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Antlr3.Runtime.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.SqlServer.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Newtonsoft.Json.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Owin.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Helpers.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Mvc.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Optimization.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Razor.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\WebGrease.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Helpers.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Mvc.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Optimization.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Razor.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Antlr3.Runtime.pdb
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Newtonsoft.Json.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.SqlServer.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\obj\Debug\SearchPro.dll
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\obj\Debug\SearchPro.pdb
+C:\Users\Adi\Desktop\פ-ר-ו-י-ק-ט\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\obj\Debug\SearchPro.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\SearchPro.dll.config
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\SearchPro.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\SearchPro.pdb
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Owin.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\WebGrease.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\obj\Debug\SearchPro.dll
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\obj\Debug\SearchPro.pdb
+C:\Users\user\Desktop\עבודה נוכחית\עבודה יומית\SearchPro\SearchPro\obj\Debug\SearchPro.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\SearchPro.dll.config
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\SearchPro.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\SearchPro.pdb
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Antlr3.Runtime.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.SqlServer.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Newtonsoft.Json.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Owin.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Helpers.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Mvc.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Optimization.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Razor.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\WebGrease.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Helpers.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Mvc.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Optimization.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Razor.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Antlr3.Runtime.pdb
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Newtonsoft.Json.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.SqlServer.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\obj\Debug\SearchPro.dll
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\obj\Debug\SearchPro.pdb
+C:\Users\Adi\Desktop\אחרון חביב\SearchPro\SearchPro\obj\Debug\SearchPro.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\SearchPro.dll.config
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\SearchPro.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\SearchPro.pdb
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Owin.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\WebGrease.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\obj\Debug\SearchPro.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\obj\Debug\SearchPro.dll
+C:\Users\user\Desktop\שששש\אחרון חביב\SearchPro\SearchPro\obj\Debug\SearchPro.pdb

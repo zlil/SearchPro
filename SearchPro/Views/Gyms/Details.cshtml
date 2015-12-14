@@ -1,0 +1,175 @@
+﻿@model SearchPro.Models.Gyms
+
+@{
+    ViewBag.Title = "Details";
+}
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/Screen.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/UserIndex.css">
+</head>
+
+<h2>Details</h2>
+
+<div>
+    <h4>Gyms</h4>
+    <hr />
+    <div>
+        <h4>@Html.DisplayFor(model => model.GymName)</h4>
+        <hr />
+        <div class="DATAcontainer">
+            <div id="infoContainer">
+                <div class="AllINFO">
+                    <div class="info">
+                        <div class="details">
+                            @Html.DisplayNameFor(model => model.GymName)
+                        </div>
+                        <div class="detailsExtract">
+                            @Html.DisplayFor(model => model.GymName)
+                        </div>
+                    </div>
+
+                    <div class="info">
+                        <div class="details">
+                            @Html.DisplayNameFor(model => model.GymPrice)
+                        </div>
+                        <div class="detailsExtract">
+                            @Html.DisplayFor(model => model.GymPrice)
+                        </div>
+                    </div>
+
+                    <div class="info">
+                        <div class="details">
+                            @Html.DisplayNameFor(model => model.GymAddress)
+                        </div>
+                        <div class="detailsExtract">
+                            @Html.DisplayFor(model => model.GymAddress)
+                        </div>
+                    </div>
+
+                    <div class="info">
+                        <div class="details">
+                            @Html.DisplayNameFor(model => model.GymOpenTime)
+                        </div>
+                        <div class="detailsExtract">
+                            @Html.DisplayFor(model => model.GymOpenTime)
+                        </div>
+                    </div>
+
+                    <div class="info">
+                        <div class="details">
+                            @Html.DisplayNameFor(model => model.GymCloseTime)
+                        </div>
+                        <div class="detailsExtract">
+                            @Html.DisplayFor(model => model.GymCloseTime)
+                        </div>
+                    </div>
+                </div>
+                <div id="details">
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+            </div>
+
+            }
+        </div>
+
+    </div>
+   
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.GymID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+<table class="table"> 
+    <tr>
+        <th>Product ID:</th>
+        <th>Product Name:</th>
+        <th>How Much?</th>
+        <th>Rate:</th>
+        <th>Type:</th>
+    </tr>
+
+
+    @foreach (var item in Model.PRODUCTS) //Display all Prodouct that belong to each gym & using DisplayFor func.
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductID)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductPrice)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductRate)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductType) 
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditProduct", new { id = item.ProductID }) |
+                @Html.ActionLink("Delete", "DeleteProducts", new { id = item.ProductID })
+            </td>
+        </tr>
+
+}</table>
+
+
+<table class="table">
+    <tr>
+        <th>Course ID:</th>
+        <th>Course Name:</th>
+        <th>Starts at:</th>
+        <th>Minutes:</th>
+        <th>Instructor:</th>
+        <th>Type:</th>
+    </tr>
+
+
+    @foreach (var item in Model.COURSES) //Display all Prodouct that belong to each gym & using DisplayFor func.
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.courseID)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseTime)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseLength)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseInstructor)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseType)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditCourse", new { id = item.courseID }) |
+                @Html.ActionLink("Delete", "DeleteCourses", new { id = item.courseID })
+            </td>
+
+        </tr>
+
+    }
+</table>

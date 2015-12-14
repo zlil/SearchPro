@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/Screen.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/UserIndex.css">
+</head>
+
+<h2>Add Product</h2>
+
+@using(Html.BeginForm("AddProduct", "Gyms"))
+    {
+@Html.AntiForgeryToken()
+<table>
+
+    <tr>
+        <th>
+            <label for="ProductID">ID</label>
+        </th>
+        <th>
+            @Html.TextBox("ProductID")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="GymID">GymID</label>
+        </th>
+        <th>
+            @Html.TextBox("GymID")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="ProductName">ProductName</label>
+        </th>
+        <th>
+            @Html.TextBox("ProductName")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="ProductPrice">ProductPrice</label>
+        </th>
+        <th>
+            @Html.TextBox("ProductPrice")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="ProductRate">ProductRate</label>
+        </th>
+        <th>
+            @Html.TextBox("ProductRate")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="ProductType">ProductType</label>
+        </th>
+        <th>
+            @Html.TextBox("ProductType")
+        </th>
+    </tr>
+    <tr>
+        <th colspan="2">
+            <input type="submit" value="Submit" />
+        </th>
+    </tr>
+</table>
+
+    }

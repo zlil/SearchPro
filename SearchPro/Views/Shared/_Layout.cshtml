@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Search Your GYM</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" type="text/css" href="~/Content/UserIndex.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Screen.css">
+</head>
+<body>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <div id="footer">
+
+        <div class="footer_navigator">
+            <!--menu buttons -->
+            <a href="#">@Html.ActionLink("Home", "Index", "HomePage")</a>
+            <a href="#">@Html.ActionLink("Motivation", "Index", "Motivation")</a>
+            <a href="#">@Html.ActionLink("Admin", "Index", "Gyms")</a>
+            <a href="#">@Html.ActionLink("Contact Us", "Index", "ContactUs")</a>
+            <a href="#">terms</a>
+            <a href="#">@Html.ActionLink("About", "Index", "About")</a>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

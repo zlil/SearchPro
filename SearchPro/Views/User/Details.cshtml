@@ -1,0 +1,220 @@
+﻿@model SearchPro.Models.Gyms
+
+@{
+    ViewBag.Title = "Details";
+}
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/Screen.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/UserIndex.css">
+
+
+    <script>
+    function dashboard(id, fData) {
+        var israel = new google.maps.LatLng(31.9634816, 34.8014353); // adding israel Coordinates
+        var map;
+        var geocoder;
+
+        function initialize() { //initialize a new google map -> israel as center
+            geocoder = new google.maps.Geocoder();
+            var mapOptions = {
+                zoom: 8,
+                mapTypeId: google.maps.MapTypeId.ROADMAP,
+                center: israel
+            };
+            map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
+
+            var i = 0;
+            for (i = 0; i < fData.length; i++) {
+                codeAddress(fData[i]);
+            }
+
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+
+        function codeAddress(address) {
+            geocoder.geocode({ address: address }, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    map.setCenter(results[0].geometry.location);
+                    var marker = new google.maps.Marker(
+                    {
+                        map: map,
+                        position: results[0].geometry.location
+                    });
+
+                } else {
+                    alert('Geocode was not successful for the following reason: ' + status);
+                }
+            });
+        }
+
+
+
+    }
+    $.getJSON("http://localhost:51044/User/getAddress", function (results) {
+        alert(results);
+
+        dashboard('#googleMap', results);
+
+    });
+
+
+    </script>
+
+
+
+</head>
+
+<h2>Details</h2>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.GymName)</h4>
+    <hr />
+    <div class="DATAcontainer">
+        <div id="infoContainer">
+            <div class="AllINFO">
+                <div class="info">
+                    <div class="details">
+                        @Html.DisplayNameFor(model => model.GymName)
+                    </div>
+                    <div class="detailsExtract">
+                        @Html.DisplayFor(model => model.GymName)
+                    </div>
+                </div>
+
+                <div class="info">
+                    <div class="details">
+                        @Html.DisplayNameFor(model => model.GymPrice)
+                    </div>
+                    <div class="detailsExtract">
+                        @Html.DisplayFor(model => model.GymPrice)
+                    </div>
+                </div>
+
+                <div class="info">
+                    <div class="details">
+                        @Html.DisplayNameFor(model => model.GymAddress)
+                    </div>
+                    <div class="detailsExtract">
+                        @Html.DisplayFor(model => model.GymAddress)
+                    </div>
+                </div>
+
+                <div class="info">
+                    <div class="details">
+                        @Html.DisplayNameFor(model => model.GymOpenTime)
+                    </div>
+                    <div class="detailsExtract">
+                        @Html.DisplayFor(model => model.GymOpenTime)
+                    </div>
+                </div>
+
+                <div class="info">
+                    <div class="details">
+                        @Html.DisplayNameFor(model => model.GymCloseTime)
+                    </div>
+                    <div class="detailsExtract">
+                        @Html.DisplayFor(model => model.GymCloseTime)
+                    </div>
+                </div>
+            </div>
+            <div id="googleMap" class="mapMove" style="width:300px;height:300px;"></div>
+            <div id="details">
+                @Html.ActionLink("Back to List", "Index")
+            </div>
+        </div>
+
+        }
+    </div>
+
+</div>
+
+<table class="table">
+    <tr>
+        <th>Product ID:</th>
+        <th>Product Name:</th>
+        <th>How Much?</th>
+        <th>Rate:</th>
+        <th>Type:</th>
+    </tr>
+
+
+    @foreach (var item in Model.PRODUCTS) //Display all Prodouct that belong to each gym & using DisplayFor func.
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductID)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductPrice)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductRate)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.ProductType)
+            </td>
+
+        </tr>
+
+    }
+</table>
+
+
+<table class="table">
+    <tr>
+        <th>Course ID:</th>
+        <th>Course Name:</th>
+        <th>Starts at:</th>
+        <th>Minutes:</th>
+        <th>Instructor:</th>
+        <th>Type:</th>
+    </tr>
+
+
+    @foreach (var item in Model.COURSES) //Display all Prodouct that belong to each gym & using DisplayFor func.
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.courseID)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseTime)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseLength)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseInstructor)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelitem => item.courseType)
+            </td>
+
+        </tr>
+
+    }
+</table>

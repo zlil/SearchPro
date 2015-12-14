@@ -1,0 +1,101 @@
+﻿@model IEnumerable<SearchPro.Models.Gyms>
+
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="~/Content/UserIndex.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Screen.css">
+</head>
+
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2>ADMIN MENU</h2>
+
+<div class="main_contect_navigation">
+    @Html.ActionLink("Add GYM", "Create")
+    @Html.ActionLink("Add Product", "Index", "AddProduct")
+    @Html.ActionLink("Add Course", "Index", "AddCourse")
+</div>
+
+
+<div id="nav">
+    <table class="table table-hover">
+        @using (Html.BeginForm())
+        {
+            <thead>
+                <tr>
+                    <th>@Html.TextBox("searchname", null, new { @class = "form-control", @placeholder = "Gym Name" })</th><!-- search box for gym name-->
+                    <th>@Html.TextBox("searchadr", null, new { @class = "form-control", @placeholder = "Address" })</th><!-- search box for gym Addr-->
+                    <th>@Html.TextBox("searchtime", null, new { @class = "form-control", @placeholder = "Opening Time" })</th><!-- search box for gym opening time-->
+                    <th> <button type="submit" class="btn btn-default">Search</button></th>
+                </tr>
+            </thead>
+
+        }
+    </table>
+</div>
+    
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GymID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GymName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GymPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GymAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GymOpenTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GymCloseTime)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GymID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GymName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GymPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GymAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GymOpenTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GymCloseTime)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.GymID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.GymID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.GymID })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+
+

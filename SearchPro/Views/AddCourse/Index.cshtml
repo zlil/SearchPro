@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/Content/Screen.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/UserIndex.css">
+</head>
+
+<h2>Add Course</h2>
+
+@using(Html.BeginForm("AddCourse", "Gyms"))
+    {
+@Html.AntiForgeryToken()
+<table>
+
+    <tr>
+        <th>
+            <label for="courseID">course ID</label>
+        </th>
+        <th>
+            @Html.TextBox("courseID")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="GymID">Gym ID</label>
+        </th>
+        <th>
+            @Html.TextBox("GymID")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="courseName">Course Name</label>
+        </th>
+        <th>
+            @Html.TextBox("courseName")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="courseTime">Start At</label>
+        </th>
+        <th>
+            @Html.TextBox("courseTime")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="courseLength">Course Length (min)</label>
+        </th>
+        <th>
+            @Html.TextBox("courseLength")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="courseInstructor">Instructor</label>
+        </th>
+        <th>
+            @Html.TextBox("courseInstructor")
+        </th>
+    </tr>
+    <tr>
+        <th>
+            <label for="courseType">Type</label>
+        </th>
+        <th>
+            @Html.TextBox("courseType")
+        </th>
+    </tr>
+    <tr>
+        <th colspan="2">
+            <input type="submit" value="Submit" />
+        </th>
+    </tr>
+
+</table>
+
+    }
+

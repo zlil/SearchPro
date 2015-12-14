@@ -1,0 +1,130 @@
+﻿.DATAcontainer{
+    
+}
+
+@font-face {
+    font-family: UserFontGym;
+    src: url(../fonts/UserFontGym.ttf);
+}
+
+#infoContainer{
+    display:inline-block;
+    width:100%;
+    margin:3%;
+    padding:3%;
+    color:white;
+    border:1px solid  #666666;
+    border-spacing:5px; 
+   
+}
+.info{
+    display:inline-block;
+    width:100%;
+    display:inline-flex;
+}
+
+.detailsExtract{
+    width:50%;
+   display:inline-block;
+   padding-left:8%;
+   font-size:24px;
+   color: rgba(251, 251, 231, 0.85);
+text-shadow: 0px 2px 3px #555;
+   
+}
+.details{
+    width:25%;
+    font-size:28px;
+   padding-left:8%;
+  font-family: UserFontGym;
+  font-style:inherit;
+  display:inline-block;
+}
+
+.mapMove{
+    width:100%;
+    border:3px solid  white;
+    width:100%;
+    height:600px;
+    margin-left:3%;
+
+}
+.AllINFO{
+    display:inline-block;
+    width:65%;
+}
+
+#details a {
+    display: inline-block;
+    text-align:center;
+    text-transform:uppercase;
+    color:white;
+    background-color:#06839F;
+    width:25%;
+    border-radius:1px;
+    border-radius: 5px 20px 5px;
+    vertical-align:auto;
+	text-decoration:none;
+	margin-left:55px;
+    margin-top:25px;
+    padding-top:2.5%;
+	font-size: 30px; 
+    font-family: UserFontGym;
+}
+.nav {
+    margin-bottom:5%;
+    margin-left:6%;
+}
+
+h3{
+    color: white;
+    font-size:30px;
+    margin-left: 20px;
+    font-family: UserFontGym;
+}
+
+h2{
+    color: white;
+    font-size:30px;
+    margin-left: 20px;
+    font-family: UserFontGym;
+}
+
+h4{
+    color: white;
+    font-size:30px;
+    margin-left: 20px;
+    font-family: UserFontGym;
+}
+
+.main_contect_navigation{
+	margin-right: 2%;
+	margin: 1%;
+
+}
+.main_contect_navigation a{
+	display: inline-block;
+	text-decoration:none;
+	margin:5px;
+	color: #06839F;
+	font-size: 13px;
+    display: inline-block;
+    text-align:center;
+    text-transform:uppercase;
+    color:white;
+    background-color:#06839F;
+    width:25%;
+    border-radius:1px;
+    border-radius: 5px 20px 5px;
+    vertical-align:auto;
+	text-decoration:none;
+	margin-left:55px;
+    margin-top:25px;
+    padding-top:2.5%;
+	font-size: 30px; 
+    font-family: UserFontGym;
+	}
+
+a:hover {
+    color: red;
+}
